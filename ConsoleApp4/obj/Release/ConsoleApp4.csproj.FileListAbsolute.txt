@@ -1,0 +1,2 @@
+C:\Users\Marc\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Marc\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.CoreCompileInputs.cache
